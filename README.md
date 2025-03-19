@@ -80,12 +80,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## Credits
-
-- This project is created and maintained by [Praveen Kumar](https://github.com/Praveen76).
-
----
-
 # Issues:
 If you encounter any issues or have suggestions for improvement, please open an issue in the Issues section of this repository.
 
