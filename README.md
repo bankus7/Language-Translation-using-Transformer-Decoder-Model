@@ -4,17 +4,6 @@
 ![Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)
 
 This repository contains code for language translation using the Transformer Decoder Model. You'll learn about the Transformer architecture and apply it to a machine translation problem.
-
----
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Learning Objectives](#learning-objectives)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ---
 
 ## Introduction
